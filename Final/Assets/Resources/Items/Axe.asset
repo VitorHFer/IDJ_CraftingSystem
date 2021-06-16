@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3528b941ffb3d4e48aeab76fda6b611c, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: bb6355d8a99169447bc8c6df92d81765, type: 3}
+  itemName: Axe
+  description: A tool used to harvest wood or be used in combat
